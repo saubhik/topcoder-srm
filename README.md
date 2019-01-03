@@ -1,6 +1,6 @@
 # Contest solutions
 
-Solutions to contest (algorithm contests) problems (Single Round Matches or SRMs) from [TopCoder](topcoder.com).
+Solutions to contest (algorithm contests) problems (Single Round Matches or SRMs) from [TopCoder](https://www.topcoder.com/tc?module=ProblemArchive).
 
 I plan on updating this repo with more solutions. This is known as `upsolving` in the competitive programming community.
 
